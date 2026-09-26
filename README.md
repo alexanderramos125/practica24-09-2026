@@ -23,3 +23,9 @@ esta es una practica del curso de python
 7. letonia
 8. sri lanka
 9. lituania
+
+# alemanas
+1. berlin
+2. heildelberg
+3. kiel
+4. bremen
