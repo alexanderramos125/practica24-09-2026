@@ -29,3 +29,7 @@ esta es una practica del curso de python
 2. heildelberg
 3. kiel
 4. bremen
+5. dresde
+6. nurember
+7. turingia
+8. hamburgo
