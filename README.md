@@ -12,3 +12,14 @@ esta es una practica del curso de python
 2. japon/china/corea
 3. baltico
 4. india
+
+# ciudades
+1. napoles
+2. tokyo
+3. estonia
+4. mumbai
+5. cerdeña
+6. kyoto
+7. letonia
+8. sri lanka
+9. lituania
