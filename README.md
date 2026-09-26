@@ -22,3 +22,4 @@ esta es una practica del curso de python
 6. kyoto
 7. letonia
 8. sri lanka
+9. lituania
