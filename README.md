@@ -18,3 +18,7 @@ esta es una practica del curso de python
 2. tokyo
 3. estonia
 4. mumbai
+5. cerdeña
+6. kyoto
+7. letonia
+8. sri lanka
